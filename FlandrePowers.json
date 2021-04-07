@@ -1,0 +1,149 @@
+﻿{
+
+	"Taboo_blood": {
+
+		"NAME": "Taboo",
+
+		"DESCRIPTIONS": ["You have a #b","% additional chance of triggering #yCleave. Whenever an enemy with #yTaboo takes #yCleave damage, their #yTaboo stacks are reduced by 2."]
+
+	},
+
+	"Broken_eyes": {
+
+		"NAME": "Tension",
+
+		"DESCRIPTIONS": ["Whenever you play an Attack that triggers #yCleave, you additionally deal","% of its base damage as #yCleave damage. #yTension increases the amount of #yCleave damage dealt (default 10% more per stack)."]
+
+	},
+
+	"FrenzyPower": {
+
+		"NAME": "Bloodthirst",
+
+		"DESCRIPTIONS": ["Whenever you deal direct damage or #yCleave damage, heal #b"," HP. This effect is removed at the end of your turn."]
+
+	},
+
+	"MustBeCriticalHit_Power": {
+
+		"NAME": "Certain Cleave",
+
+		"DESCRIPTIONS": ["The next #b"," Attacks you play this turn will always trigger #yCleave."]
+	},
+
+	"DebuffDetonate_Power": {
+
+		"NAME": "Detonate",
+
+		"DESCRIPTIONS": ["At the start of this unit's next turn, it takes #b"," damage."]
+	},
+
+
+
+
+	"ForbiddenFruits_Blood_Power": {
+
+		"NAME": "No Cleave",
+
+		"DESCRIPTIONS": ["This turn, you cannot trigger #yCleave."]
+	},
+
+	"Rage_Blood_Power": {
+
+		"NAME": "Mired in Delirium",
+
+		"DESCRIPTIONS": ["Whenever you play 3 Skills in a single turn, inflict 2 Insanity to a random enemy. (Skills played this turn: #b"," )"]
+	},
+
+	"CastArmorWithBlood_Power": {
+
+		"NAME": "Bloodcrafted Armor",
+
+		"DESCRIPTIONS": ["Whenever an Attack deals unblocked damage, gain #b"," #yBlock. Whenever you deal Cleave damage, gain #b"," #yBlock."]
+	},
+
+	"TheEpreadOfTaboos_Blood_Power": {
+
+		"NAME": "The Seven Taboos",
+
+		"DESCRIPTIONS": ["At the start of your turn, apply #b"," #yTaboo to all enemies. If there's only one enemy, apply 2 additional stacks of #yTaboo."]
+	},
+
+	"CastBloodWithArmor_Power": {
+
+		"NAME": "Armored Blood",
+
+		"DESCRIPTIONS": ["Whenever you are attacked this turn, gain #b"," #yBloodthirst"]
+	},
+
+	"ClockEngravedWithThePast_Blood_Power": {
+
+		"NAME": "Ticking Clock",
+
+		"DESCRIPTIONS": ["All enemies with debuffs lose HP at the end of their turn equal to !M! times the amount of unique debuffs on them."]
+	},
+
+	"Etching_Blood_Power": {
+
+		"NAME": "Blood Etchings",
+
+		"DESCRIPTIONS": ["If this creature dies, gain #b"," #yGold."]
+	},
+
+	"TheMadnessOfHeart_Blood_Power": {
+
+		"NAME": "Heart of Madness",
+
+		"DESCRIPTIONS": ["At the start of ypur turn, lose #b1 HP and gain #b"," #yTension"]
+	},
+	"WhyIsItJustMe_Blood_Power": {
+
+		"NAME":"Solitude",
+
+		"DESCRIPTIONS": ["Every #b2 times you lose HP from a card, gain #b1 #yBloodthirst."]
+	},
+
+
+
+	"TrueAncestors_Blood_Power": {
+
+		"NAME": "True Ancestors",
+
+		"DESCRIPTIONS": ["At the start of every 2 turns, gain #b1 #yIntangible. You may no longer heal HP for the rest of this combat."]
+	},
+
+	"FourOfAKindPower": {
+
+		"NAME": "Four of a Kind",
+
+		"DESCRIPTIONS": ["The first card you play each turn is played 4 times."]
+	},
+
+	"CrazyWithMe_Blood_Power": {
+
+		"NAME": "Shared Psychosis",
+
+		"DESCRIPTIONS": ["Every time an enemy is attacked, inflict #b"," #yInsanity to ALL enemies."]
+	},
+
+	"RippleIn495_Blood_Power": {
+
+		"NAME":"Ripple In 495 Years",
+
+		"DESCRIPTIONS": ["For the rest of this combat, #yCleave damage no longer reduces #yTaboo stacks."]
+	},
+
+	"MakeFriendsWithMe_Blood_Power": {
+
+		"NAME":"Endless Darkness",
+
+		"DESCRIPTIONS": ["At the start of your turn, a non-Attack card in your hand is selected. If you play it, draw 2 cards next turn."]
+	},
+
+	"BloodTide_Power": {
+
+		"NAME": "Rising Blood Tides",
+
+		"DESCRIPTIONS": ["Whenever you heal HP, draw #b"," cards."]
+	}
+}

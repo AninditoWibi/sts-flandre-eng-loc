@@ -1,0 +1,44 @@
+﻿{
+
+	"SisterOfTheDevil_Blood":{
+		"NAME":"Scarlet Bonds",
+		"FLAVOR":"'Though we often couldn't understand each other, we move forward for each other's sake.'",
+		"DESCRIPTIONS":["At the start of each combat, gain #b3 #yPlated #yArmor."]
+	},
+
+	"TrueAncestorsBlood":{
+		"NAME":"Pure Vampire Blood",
+		"FLAVOR":"An untainted blood sample from an ancient vampire, meant for another of his kin.",
+		"DESCRIPTIONS":["If you would die in combat with more than 20 maximum HP, heal to full HP and gain #b2 #yStrength and #2 #yDexterity, but halve your maximum HP. At the start of each combat, gain #yStrength and #yDexterity equal to the number of times this relic has revived you."]
+	},
+
+	"MySistersDoll": {
+		"NAME":"Remilia's Hand-me-down",
+		"FLAVOR":"'She always did care about her little sister, even if she doesn't look like it most of the time.' - Meiling",
+		"DESCRIPTIONS":["Whenever you heal HP in combat, gain 2 #yBlock."]
+	},
+
+	"StoneOfForesight": {
+		"NAME":"Oracle's Gem",
+		"FLAVOR":"'You think it's fine for my sister to wander that place alone?' NL 'Yes, she will be fine. Besides, all this time you've pnly been spoiling her.'",
+		"DESCRIPTIONS":["At the end of your turn, #yScry #b2, then put a card from your discard pile at the top of your draw pile."]
+	},
+
+	"TheEndOfTaboo": {
+		"NAME":"Mark of Broken Taboos",
+		"FLAVOR":"'It is my opinion that the young mistress be given minimal assistance, so she can learn to adapt and become stronger still.' - Sakuya",
+		"DESCRIPTIONS":["Any single enemy may no longer have more than #b20 #yTaboo stacks. If an enemy would have more than #b20 #yTaboo stacks when you apply #yTaboo, instead gain #b2 #yTension."]
+	},
+
+	"BloodyNotes": {
+		"NAME":"Memoirs of the Young Vampire",
+		"FLAVOR":"'This is for my own good, she says. I should do as she wished.'",
+		"DESCRIPTIONS":["Once per turn, whenever you apply #yInsanity, also apply #b2 #yPoison."]
+	},
+
+	"BloodBlackTea": {
+		"NAME":"Blood-laced Black Tea",
+		"FLAVOR":"Compared to the tea served in the Scarlet Devil Mansion, this one is downright unpalatable.",
+		"DESCRIPTIONS":["Every time you trigger #yCleave, heal 2 HP."]
+	}
+}

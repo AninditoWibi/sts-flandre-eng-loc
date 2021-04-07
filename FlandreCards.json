@@ -1,0 +1,332 @@
+﻿{
+	"Defend_blood":{
+		"NAME":"Defend",
+		"DESCRIPTION":"Gain !B! Block."
+	},
+	"Attack_blood": {
+		"NAME":"Attack",
+		"DESCRIPTION": "Deal !D! damage."
+	},
+	"Pivot_destroy": {
+		"NAME":"Eyes of Focus",
+		"DESCRIPTION": "Cleave. NL Deal !D! damage. NL "
+	},
+	"Pivot_control": {
+		"NAME":"Eyes of Control",
+		"DESCRIPTION": "Gain !B! Block. NL Gain !M! Bloodthirst."
+	},
+
+
+	"Threat_Detection_Blood": {
+		"NAME":"Threat Detection",
+		"DESCRIPTION": "Cleave. NL Deal !D! damage. If the enemy intends to attack, gain !M! Strength. NL Exhaust."
+	},
+	"Rolling_avoiding_Blood": {
+		"NAME":"Red Moon",
+		"DESCRIPTION": "Gain !B! Block. Apply !M! Taboo. NL Remove all Block from the enemy, then gain Block equal to 50% of the amount removed."
+	},
+	"Panic_Blood": {
+		"NAME":"Induce Panic",
+		"DESCRIPTION": "Apply !M! Taboo. NL Gain !M! Bloodthirst."
+	},
+	"Collision_Blood": {
+		"NAME":"Bloody Smash",
+		"DESCRIPTION": " Cleave. NL Deal !D! damage. Gain Block equal to unblocked damage dealt (excluding Cleave damage). NL Apply !M! Insanity."
+	},
+	"Gradually_Crazy_Blood": {
+		"NAME":"Progressive Madness",
+		"DESCRIPTION": "Lose 2 HP. NL Gain 1 Bloodthirst. Draw 1 card. NL Put this card to the bottom of your draw pile.",
+		"UPGRADE_DESCRIPTION": "Innate. NL Lose 2 HP. NL Gain 1 Bloodthirst. Draw 1 card. NL Put this card to the bottom of your draw pile."
+	},
+	"Tyranny_Blood": {
+		"NAME":"Tyranny",
+		"DESCRIPTION": "Deal !D! damage. NL If you lost HP this turn, put a card from your discard pile to the top of your draw pile."
+	},
+	"VampiricTouch_Blood": {
+		"NAME":"Vampire's Touch",
+		"DESCRIPTION": "Cleave. NL Lose 2 HP. Deal !D! damage. NL If you are below 50% of maximum HP, heal 2 HP."
+	},
+	"BrutalStrikes_Blood": {
+		"NAME":"Brutal Attack",
+		"DESCRIPTION": "Deal !D! damage. NL If the target has at least !M! different debuffs, gain [E]."
+	},
+	"TheErosionOfBlood": {
+		"NAME":"Spilled Blood",
+		"DESCRIPTION": "Gain !B! Block. NL If you lost HP this turn, gain 4 additional Block and apply !M! Weak to ALL enemies."
+	},
+	"SpiritualDiffusion_Blood": {
+		"NAME":"Spiritual Diffusion",
+		"DESCRIPTION": "Apply !M Insanity. NL If the target has Taboo, apply 3 Taboo."
+	},
+	"TheOverturnOfBreaking_Blood": {
+		"NAME":"Violent Manoeuvre",
+		"DESCRIPTION": "Deal !D! damage. NL Gain 5 Block."
+	},
+	"BannedGames_Blood": {
+		"NAME":"Forbidden Games",
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL If you lost HP this turn, deal 3 additional damage and apply !M! Taboo."
+	},
+	"HeartBreaking_Blood": {
+		"NAME":"Heartbreaker",
+		"DESCRIPTION": "Cleave. NL Deal !D! damage. If this card triggers Cleave, draw 2 cards."
+	},
+	"Sprinkle_Blood": {
+		"NAME":"Blood Spray",
+		"DESCRIPTION": "Deal !D! damage to a random enemy !M! times. NL Apply 1 Insanity to each enemy hit."
+	},
+	"ForbiddenFruits_Blood": {
+		"NAME":"Forbidden Fruit",
+		"DESCRIPTION": "Gain !B! Block. NL This turn, Cleave cannot trigger."
+	},
+	"TwoCombos_Blood": {
+		"NAME":"Double Combo",
+		"DESCRIPTION": "Cleave. NL Lose 1 HP. Deal !D! damage to ALL enemies 2 times."
+	},
+	"TheExistenceOfBlood": {
+		"NAME":"Bloody Existence",
+		"DESCRIPTION": "Cleave. NL Deal !D! damage. If this card triggers Cleave, gain [E] and draw 1 card."
+	},
+	"BloodFrenzy": {
+		"NAME":"Blood Frenzy",
+		"DESCRIPTION": "Gain !B! Block. NL Gain !M! Bloodthirst and draw 1 card."
+	},
+	"CounterBarrier_Blood":{
+		"NAME":"Counter Barrier",
+		"DESCRIPTION": "Gain !B! Block. NL Exhaust a random card in your hand. NL This turn, your next Attack is guaranteed to trigger Cleave.",
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Exhaust a card in your hand. NL This turn, your next Attack is guaranteed to trigger Cleave."
+	},
+	"Craving_Blood": {
+		"NAME":"Craving for Blood",
+		"DESCRIPTION": "Gain !B! Block. NL Gain !M! additional Block for each time you have inflicted Insanity this combat."
+	},
+	"Immerse_Blood": {
+		"NAME":"Blood Dive",
+		"DESCRIPTION": "Draw !M! cards. NL Discard !M! cards. NL For each Attack discarded this way, apply 2 Taboo to all enemies. NL For each Skill discarded this way, gain 2 Tension."
+	},
+	"HeavyBlow_Blood": {
+		"NAME":"Ponderous Blow",
+		"DESCRIPTION": "Cleave. NL Deal !D! damage. NL. If this card triggers Cleave, it will be triggered twice and will not reduce the enemy's Taboo stacks."
+	},
+	"Atomization_Blood": {
+		"NAME":"Atomize",
+		"DESCRIPTION": "Gain !M! Intangible. NL Exhaust."
+	},
+	"Rage_Blood": {
+		"NAME":"Mired in Delirium",
+		"DESCRIPTION": "Whenever you play 3 Skills in a single turn, inflict !M! Insanity to a random enemy."
+	},
+	"Bloodthirsty": {
+		"NAME":"Thirst for Vengeance",
+		"DESCRIPTION": "Unplayable. NL At the end of your turn, deal !D! damage to all enemies, increased by !M! each time you lose HP this turn."
+	},
+	"CastArmorWithBlood": {
+		"NAME":"Bloodcrafted Armor",
+		"DESCRIPTION": "Whenever an Attack deals unblocked damage, gain !B! Block. Whenever you deal Cleave damage, gain !M! Block."
+	},
+	"TheEpreadOfTaboos_Blood": {
+		"NAME":"The Seven Taboos",
+		"DESCRIPTION": "At the start turn, apply !M! Taboo to ALL enemies. If there's only one enemy, apply 2 additional stacks of Taboo."
+	},
+	"CriticalHitEnhancement_Blood": {
+		"NAME":"Seal Breaker",
+		"DESCRIPTION": "Double the Taboo stacks of ALL enemies. NL Exhaust."
+	},
+	"KagomeKagome_Blood": {
+		"NAME":"Kagome Kagome",
+		"DESCRIPTION": "Cleave. NL Deal !D! damage. NL If you have at least 2 stacks of Bloodthirst, remove a random buff from the target."
+	},
+	"NoOneSurvived_Blood": {
+		"NAME":"And Then There Were None",
+		"DESCRIPTION": "Cleave. NL Deal !D! damage. NL Double this card's damage for the rest of this combat."
+	},
+	"CastBloodWithArmor": {
+		"NAME":"Armored Blood",
+		"DESCRIPTION": "Gain !B! Block. Whenever you are attacked this turn, gain 1 Bloodthirst."
+	},
+	"PainfulRoad_Blood": {
+		"NAME":"Painful Road",
+		"DESCRIPTION": "Cleave. NL Deal !D! damage. NL Costs 1 less [E] for each time you heal or lose HP this combat."
+	},
+	"WhyIsItJustMe_Blood": {
+		"NAME":"The Pain of Solitude",
+		"DESCRIPTION": "Every 2 times you lose HP from a card, gain 1 Bloodthirst.",
+		"UPGRADE_DESCRIPTION": "Innate. NL Every 2 times you lose HP from a card, gain 1 Bloodthirst."
+	},
+	"ClockEngravedWithThePast_Blood": {
+		"NAME":"Clock That Ticks the Past",
+		"DESCRIPTION": "All enemies with debuffs lose HP at the end of their turn equal to the amount of unique debuffs on them."
+	},
+	"Etching_Blood": {
+		"NAME":"Etched in Blood",
+		"DESCRIPTION": "Lose 4 HP. NL Choose one: Enemy loses 2 Strength, or gain !M! Gold if the enemy dies. NL Exhaust."
+	},
+	"ForbiddenShootingStars_Blood":{
+		"NAME":"Forbidden Shooting Stars",
+		"DESCRIPTION": "Deal !D! damage. NL Deal 1 additional damage and draw 1 card for each unique debuff on the enemy."
+	},
+	"PowerTransformation_Blood": {
+		"NAME":"Blood Stimulant",
+		"DESCRIPTION": "Lose 2 HP. NL Put !M! random Attacks from your draw pile into your hand."
+	},
+	"WaveformGettingStronger_Blood": {
+		"NAME":"Growing Waves",
+		"DESCRIPTION": "Gain !B! Block. Gain !M! Tension. NL Put 1 card from your draw pile into your hand."
+	},
+	"Human_Taboos_Blood": {
+		"NAME":"Human Taboos",
+		"DESCRIPTION": "Cleave. NL Deal !D! damage. NL If the target has at least 2 unique debuffs, apply !M! Insanity."
+	},
+	"Earth_Taboo_Blood": {
+		"NAME":"Earth Taboos",
+		"DESCRIPTION": "Apply !M! Insanity to a random enemy 4 times."
+	},
+	"Sky_Taboo_Blood":{
+		"NAME":"Heavenly Taboos",
+		"DESCRIPTION": "Lose 6 HP. Exhaust all cards in your hand. For each card Exhausted this way, draw a card and shuffle a random card into your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Lose 6 HP. Exhaust all cards in your hand. For each card Exhausted this way, draw a card and shuffle a random Upgraded card into your draw pile. NL Exhaust."
+	},
+	"TheMadnessOfHeart_Blood": {
+		"NAME":"Heart of Madness",
+		"DESCRIPTION": "At the start of ypur turn, lose 1 HP and gain 2 Tension.",
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of ypur turn, lose 1 HP and gain 2 Tension."
+	},
+	"BackFlow_Blood": {
+		"NAME":"Flow Reversal",
+		"DESCRIPTION": "Gain [E]. NL If the last card played this combat was a Power, gain [E] again. Otherwise, draw !M! cards. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Gain [E]. NL If the last card played this combat was a Power, gain [E][E]. Otherwise, draw !M! cards. NL Exhaust."
+	},
+	"LonelyNightmare_Blood": {
+		"NAME":"Lonely Nightmare",
+		"DESCRIPTION": "Gain !B! Block. NL If there's only one enemy, remove a random debuff from yourself. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL If there's only one enemy, remove a random debuff from yourself."
+	},
+	"BloodRecovery": {
+		"NAME":"Bloody Collection",
+		"DESCRIPTION": "Lose 3 HP. NL Put a card from your exhaust pile into your hand. NL Exhaust."
+	},
+	"TheWillOfCrimson_Blood": {
+		"NAME":"Crimson Will",
+		"DESCRIPTION": "Deal !D! damage. NL If this card triggers Cleave, gain !M! Strength.",
+		"UPGRADE_DESCRIPTION": "Cleave. NL Deal !D! damage. NL If this card triggers Cleave, gain !M! Strength."
+	},
+	"GhostsAndShadows_Blood": {
+		"NAME":"Ghosts and Shadows",
+		"DESCRIPTION": "Gain !B! Block. NL If you are below 50% of maximum HP, gain !M! Dexterity."
+	},
+	"SadisticKilling_Blood": {
+		"NAME":"Sadistic Murder",
+		"DESCRIPTION": "Deal !D! damage. NL If the target has at least 2 unique debuffs, deal 6 additional damage to ALL enemies and apply 2 Insanity."
+	},
+	"WhereTheHeartIs_Blood": {
+		"NAME":"Lost Heart",
+		"DESCRIPTION": "Apply !M! Insanity to ALL enemies twice."
+	},
+	"TheEndOfMadness_Blood": {
+		"NAME":"End of Madness",
+		"DESCRIPTION": "Apply !M! Strength. NL If the target has at least !M! unique debuffs, add a Sadistic Nature to your hand. NL Exhaust."
+	},
+	"TheOnlyWill_Blood": {
+		"NAME":"Contemptous Will",
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. Gain !B! Block and inflict 1 Insanity on each unblocked hit (excluding Cleave damage)."
+	},
+	"EndlessFrenzy_Blood": {
+		"NAME":"Endless Frenzy",
+		"DESCRIPTION": "At the end of this turn, Bloodthirst will not wear off. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "At the end of this turn, Bloodthirst will not wear off. NL Exhaust."
+	},
+	"Subduction_Blood": {
+		"NAME":"The Unfinished Puzzle",
+		"DESCRIPTION": "Cleave. NL Lose 6 hp. Deal !D! damage to ALL enemies. Gain !M! Bloodthirst. NL If this card triggers Cleave, double the Bloodthirst stacks gained from this card."
+	},
+	"Induce_Blood": {
+		"NAME":"Mindfray",
+		"DESCRIPTION": "Deal !D! damage. NL If the enemy does not have more than 1 unique debuff, apply Insanity twice."
+	},
+	"FromTheInsideOut_Blood": {
+		"NAME":"From the Insides Out",
+		"DESCRIPTION": "Exhaust up to 3 cards from your hand. NL For each Status exhausted, gain 1 Artifact. For each Curse exhausted, apply 2 Insanity to ALL enemies. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Exhaust up to 3 cards from your hand. NL For each Status exhausted, gain 1 Artifact. For each Curse exhausted, apply 2 Insanity to ALL enemies."
+	},
+	"Sustainable_Blood": {
+		"NAME":"Prolonged Hysteria",
+		"DESCRIPTION": "Gain !M! Insanity 2 times. NL Draw 3 cards."
+	},
+	"LetsPlayTogether_Blood": {
+		"NAME":"Let's Play Together!",
+		"DESCRIPTION": "Apply !M! Insanity and gain !B! Block X times."
+	},
+
+
+	"LetDestruction_Blood": {
+		"NAME":"Ruinous Despair",
+		"DESCRIPTION": "Can only be played if this card would trigger Cleave. NL Deal !D! damage to ALL enemies.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Can only be played if this card would trigger Cleave. NL Deal !D! damage to ALL enemies."
+	},
+	"FourOfAKind_Blood": {
+		"NAME":"Four of a Kind",
+		"DESCRIPTION": "Ethereal. NL Lose 10 HP, 4 Strength, and 4 Dexterity. NL The first card you each turn is played 4 times."
+	},
+	"TrueAncestors_Blood": {
+		"NAME":"True Ancestors",
+		"DESCRIPTION": "Gain 1 Intangible. NL At the start of every 2 turns, gain 1 Intangible. NL You may no longer heal HP for the rest of this combat.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Gain 1 Intangible. NL At the start of every 2 turns, gain 1 Intangible. NL You may no longer heal HP for the rest of this combat."
+	},
+	"CrazyWithMe_Blood": {
+		"NAME":"Shared Psychosis",
+		"DESCRIPTION": "Every time an enemy takes damage, inflict !M! Insanity to ALL enemies. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Every time an enemy takes damage, inflict !M! Insanity to ALL enemies."
+	},
+	"BloodTide": {
+		"NAME":"Rising Blood Tides",
+		"DESCRIPTION": "Whenever you heal HP, draw !M! cards."
+	},
+	"RippleIn495_Blood": {
+		"NAME":"Ripple in 495 Years",
+		"DESCRIPTION": "Gain 5 Tension. NL For the rest of this combat, Cleave damage no longer reduces Taboo stacks."
+	},
+	"Catadioptric_Blood": {
+		"NAME":"Catadioptric",
+		"DESCRIPTION": "Shuffle ALL your cards into your draw pile. NL Draw cards equal to the the number of cards in your hand before playing this card (minimum 3).",
+		"UPGRADE_DESCRIPTION": "Retain. NL Shuffle ALL your cards into your draw pile. NL Draw cards equal to the the number of cards in your hand before playing this card (minimum 3)."
+	},
+	"BloodyCatastrophe_Blood": {
+		"NAME":"Bloody Catastrophe",
+		"DESCRIPTION": "Deal X damage and gain X Block, where X is the difference between your current maximum HP and your initial maximum HP at the start of this run.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Deal X damage and gain X Block, where X is the difference between your current maximum HP and your initial maximum HP at the start of this run."
+	},
+	"Laevatein_Blood": {
+		"NAME":"Laevateinn",
+		"DESCRIPTION": "Gain [E] and !M! Bloodthirst. NL Increase [E] and Bloodthirst gained from this card by 1 for the rest of this combat."
+	},
+	"LabyrinthOfLove_Blood": {
+		"NAME":"Labyrinth of Love",
+		"DESCRIPTION": "Gain !B! Block. NL If you lost HP this turn, double the amount of Block gained."
+	},
+	"StarbowBreak_Blood": {
+		"NAME":"Starbow Break",
+		"DESCRIPTION": "Deal !D! damage 2 times. NL Apply 2 Insanity 2 times. NL Decrease the damage of this card by !M! this combat."
+	},
+	"TheTruthOfTheEye_Blood": {
+		"NAME":"Weakness of the Eyes",
+		"DESCRIPTION": "Lose 6 HP. NL For !M! turns, your Attacks deal double damage. NL Exhaust."
+	},
+	"ToDrinkBitterly_blood": {
+		"NAME":"To Drink Bitterly",
+		"DESCRIPTION": "Target loses 10% of their current HP. Heal HP equal to the damage inflicted. NL Exhaust."
+	},
+	"CranberryTrap_Blood": {
+		"NAME":"Cranberry Trap",
+		"DESCRIPTION": "Gain X Strength and Dexterity, where X is the number of times you lost HP this turn. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Gain X+1 Strength and Dexterity, where X is the number of times you lost HP this turn. NL Exhaust."
+	},
+	"MakeFriendsWithMe_Blood": {
+		"NAME":"Endless Darkness",
+		"DESCRIPTION": "At the start of your turn, randomly select a non-Attack card in your hand. If you play it, draw 2 cards next turn.",
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, randomly select a non-Attack card in your hand. If you play it, draw 2 cards next turn."
+	},
+	"WhereAreTheNewToys_Blood": {
+		"NAME":"Prismatic Vampire Wings",
+		"DESCRIPTION": "Upgrade all cards in your hand for the rest of combat. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Upgrade ALL your cards for the rest of combat. NL Exhaust."
+	}
+}
