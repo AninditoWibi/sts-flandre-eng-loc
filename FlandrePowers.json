@@ -4,7 +4,7 @@
 
 		"NAME": "Taboo",
 
-		"DESCRIPTIONS": ["You have a #b","% additional chance of triggering #yCleave. Whenever an enemy with #yTaboo takes #yCleave damage, their #yTaboo stacks are reduced by 2."]
+		"DESCRIPTIONS": ["You have a #b","% additional chance of triggering #yCleave. Whenever an enemy with #yTaboo takes #yCleave damage, their #yTaboo stacks are reduced by #b2."]
 
 	},
 
@@ -12,7 +12,7 @@
 
 		"NAME": "Tension",
 
-		"DESCRIPTIONS": ["Whenever you play an Attack that triggers #yCleave, you additionally deal ","% of its base damage as #yCleave damage. #yTension increases the amount of #yCleave damage dealt (default 10% more per stack)."]
+		"DESCRIPTIONS": ["Whenever you play an Attack that triggers #yCleave, you additionally deal ","% of its base damage as #yCleave damage. #yTension increases the amount of #yCleave damage dealt (default #b10% more per stack)."]
 
 	},
 
@@ -80,7 +80,7 @@
 
 		"NAME": "Ticking Clock",
 
-		"DESCRIPTIONS": ["All enemies with debuffs lose HP at the end of their turn equal to the amount of unique debuffs on them."]
+		"DESCRIPTIONS": ["All enemies with debuffs lose HP at the end of their turn equal to #b"," times the amount of unique debuffs on them."]
 	},
 
 	"Etching_Blood_Power": {
@@ -116,14 +116,14 @@
 
 		"NAME": "Four of a Kind",
 
-		"DESCRIPTIONS": ["The first card you play each turn is played 4 times."]
+		"DESCRIPTIONS": ["The first card you play each turn is played #b4 times."]
 	},
 
 	"CrazyWithMe_Blood_Power": {
 
 		"NAME": "Shared Psychosis",
 
-		"DESCRIPTIONS": ["Every time an enemy is attacked, inflict #b"," #yInsanity to ALL enemies."]
+		"DESCRIPTIONS": ["Each time this enemy is attacked, apply #b"," #yInsanity to ALL enemies."]
 	},
 
 	"RippleIn495_Blood_Power": {

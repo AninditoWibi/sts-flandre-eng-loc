@@ -39,6 +39,6 @@
 	"BloodBlackTea": {
 		"NAME":"Blood-laced Black Tea",
 		"FLAVOR":"Compared to the tea served in the Scarlet Devil Mansion, this one is downright unpalatable.",
-		"DESCRIPTIONS":["Every time you trigger #yCleave, heal 2 HP."]
+		"DESCRIPTIONS":["Whenever you trigger #yCleave, heal 2 HP."]
 	}
 }

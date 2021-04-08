@@ -4,7 +4,7 @@
 		"DESCRIPTION":"Gain !B! Block."
 	},
 	"Attack_blood": {
-		"NAME":"Attack",
+		"NAME":"Strike",
 		"DESCRIPTION": "Deal !D! damage."
 	},
 	"Pivot_destroy": {
@@ -97,7 +97,7 @@
 	},
 	"Craving_Blood": {
 		"NAME":"Craving for Blood",
-		"DESCRIPTION": "Gain !B! Block. NL Gain !M! additional Block for each time you have inflicted Insanity this combat."
+		"DESCRIPTION": "Gain !B! Block. NL Gain !M! additional Block for each time you have applied Insanity this combat."
 	},
 	"Immerse_Blood": {
 		"NAME":"Blood Dive",
@@ -105,7 +105,7 @@
 	},
 	"HeavyBlow_Blood": {
 		"NAME":"Ponderous Blow",
-		"DESCRIPTION": "Cleave. NL Deal !D! damage. NL. If this card triggers Cleave, it will be triggered twice and will not reduce the enemy's Taboo stacks."
+		"DESCRIPTION": "Cleave. NL Deal !D! damage. NL If this card triggers Cleave, it will be triggered twice and will not reduce the enemy's Taboo stacks."
 	},
 	"Atomization_Blood": {
 		"NAME":"Atomize",
@@ -113,7 +113,7 @@
 	},
 	"Rage_Blood": {
 		"NAME":"Mired in Delirium",
-		"DESCRIPTION": "Whenever you play 3 Skills in a single turn, inflict !M! Insanity to a random enemy."
+		"DESCRIPTION": "Whenever you play 3 Skills in a single turn, apply !M! Insanity to a random enemy."
 	},
 	"Bloodthirsty": {
 		"NAME":"Thirst for Vengeance",
@@ -153,7 +153,7 @@
 		"UPGRADE_DESCRIPTION": "Innate. NL Every 2 times you lose HP from a card, gain 1 Bloodthirst."
 	},
 	"ClockEngravedWithThePast_Blood": {
-		"NAME":"Clock That Ticks the Past",
+		"NAME":"Ticking Clock",
 		"DESCRIPTION": "All enemies with debuffs lose HP at the end of their turn equal to the amount of unique debuffs on them."
 	},
 	"Etching_Blood": {
@@ -227,7 +227,7 @@
 	},
 	"TheOnlyWill_Blood": {
 		"NAME":"Contemptous Will",
-		"DESCRIPTION": "Deal !D! damage to ALL enemies. Gain !B! Block and inflict 1 Insanity on each unblocked hit (excluding Cleave damage)."
+		"DESCRIPTION": "Deal !D! damage once to each enemy separately. Gain !B! Block and apply 1 Insanity on each unblocked hit (excluding Cleave damage)."
 	},
 	"EndlessFrenzy_Blood": {
 		"NAME":"Endless Frenzy",
@@ -240,7 +240,7 @@
 	},
 	"Induce_Blood": {
 		"NAME":"Mindfray",
-		"DESCRIPTION": "Deal !D! damage. NL If the enemy does not have more than 1 unique debuff, apply Insanity twice."
+		"DESCRIPTION": "Deal !D! damage. NL If the enemy does not have more than 1 unique debuff, apply 1 Insanity twice."
 	},
 	"FromTheInsideOut_Blood": {
 		"NAME":"From the Insides Out",
@@ -273,8 +273,8 @@
 	},
 	"CrazyWithMe_Blood": {
 		"NAME":"Shared Psychosis",
-		"DESCRIPTION": "Every time an enemy takes damage, apply !M! Insanity to ALL enemies. NL Exhaust.",
-		"UPGRADE_DESCRIPTION": "Every time an enemy takes damage, apply !M! Insanity to ALL enemies."
+		"DESCRIPTION": "Apply a debuff that enables you to apply !M! Insanity to ALL enemies each time you attack the targeted enemy. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Apply a debuff that enables you to apply !M! Insanity to ALL enemies each time you attack the targeted enemy."
 	},
 	"BloodTide": {
 		"NAME":"Rising Blood Tides",
