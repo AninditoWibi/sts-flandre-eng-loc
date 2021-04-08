@@ -193,7 +193,7 @@
 	"BackFlow_Blood": {
 		"NAME":"Flow Reversal",
 		"DESCRIPTION": "Gain [E]. NL If the last card played this combat was a Power, gain [E] again. Otherwise, draw !M! cards. NL Exhaust.",
-		"UPGRADE_DESCRIPTION": "Gain [E]. NL If the last card played this combat was a Power, gain [E][E]. Otherwise, draw !M! cards. NL Exhaust."
+		"UPGRADE_DESCRIPTION": "Gain [E]. NL If the last card played this combat was a Power, gain [E] [E] . Otherwise, draw !M! cards. NL Exhaust."
 	},
 	"LonelyNightmare_Blood": {
 		"NAME":"Lonely Nightmare",
@@ -312,7 +312,7 @@
 	},
 	"ToDrinkBitterly_blood": {
 		"NAME":"To Drink Bitterly",
-		"DESCRIPTION": "Target loses 10% of their current HP. Heal HP equal to the damage inflicted. NL Exhaust."
+		"DESCRIPTION": "Target loses 10% of their current HP. Heal HP equal to the amount of HP removed from the target. NL Exhaust."
 	},
 	"CranberryTrap_Blood": {
 		"NAME":"Cranberry Trap",

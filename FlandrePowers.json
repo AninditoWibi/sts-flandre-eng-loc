@@ -80,7 +80,7 @@
 
 		"NAME": "Ticking Clock",
 
-		"DESCRIPTIONS": ["All enemies with debuffs lose HP at the end of their turn equal to !M! times the amount of unique debuffs on them."]
+		"DESCRIPTIONS": ["All enemies with debuffs lose HP at the end of their turn equal to the amount of unique debuffs on them."]
 	},
 
 	"Etching_Blood_Power": {
@@ -98,7 +98,7 @@
 	},
 	"WhyIsItJustMe_Blood_Power": {
 
-		"NAME":"Solitude",
+		"NAME":"Pain of Solitude",
 
 		"DESCRIPTIONS": ["Every #b2 times you lose HP from a card, gain #b1 #yBloodthirst."]
 	},

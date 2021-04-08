@@ -7,8 +7,8 @@
 	},
 
 	"TrueAncestorsBlood":{
-		"NAME":"Pure Vampire Blood",
-		"FLAVOR":"An untainted blood sample from an ancient vampire, meant for another of his kin.",
+		"NAME":"Noble Vampire's Wings",
+		"FLAVOR":"These briliant wings are the mark of a pure-blooded, noble vampire - and a conduit of their resurrective strength.",
 		"DESCRIPTIONS":["If you would die in combat with more than 20 max. HP, heal to full HP and gain #b2 #yStrength and #b2 #yDexterity, but halve your max. HP. At the start of each combat, gain #yStrength and #yDexterity equal to the number of times this relic has revived you."]
 	},
 
@@ -26,7 +26,7 @@
 
 	"TheEndOfTaboo": {
 		"NAME":"Mark of Broken Taboos",
-		"FLAVOR":"'It is my opinion that the young mistress be given minimal assistance, so she can learn to adapt and become stronger still.' - Sakuya",
+		"FLAVOR":"'It is my opinion that the young mistress be given minimal assistance, so she can learn to adapt to adversity.' - Sakuya",
 		"DESCRIPTIONS":["Any single enemy may no longer have more than #b20 #yTaboo stacks. If an enemy would have more than #b20 #yTaboo stacks when you apply #yTaboo, instead gain #b2 #yTension."]
 	},
 
