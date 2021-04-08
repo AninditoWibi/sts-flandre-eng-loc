@@ -31,7 +31,7 @@
 	},
 	"Collision_Blood": {
 		"NAME":"Bloody Smash",
-		"DESCRIPTION": " Cleave. NL Deal !D! damage. Gain Block equal to unblocked damage dealt (excluding Cleave damage). NL Apply !M! Insanity."
+		"DESCRIPTION": "Cleave. NL Deal !D! damage. Gain Block equal to unblocked damage dealt (excluding Cleave damage). NL Apply !M! Insanity."
 	},
 	"Gradually_Crazy_Blood": {
 		"NAME":"Progressive Madness",
@@ -60,7 +60,7 @@
 	},
 	"TheOverturnOfBreaking_Blood": {
 		"NAME":"Violent Manoeuvre",
-		"DESCRIPTION": "Deal !D! damage. NL Gain 5 Block."
+		"DESCRIPTION": "Deal !D! damage. NL Gain !B! Block."
 	},
 	"BannedGames_Blood": {
 		"NAME":"Forbidden Games",
@@ -193,7 +193,7 @@
 	"BackFlow_Blood": {
 		"NAME":"Flow Reversal",
 		"DESCRIPTION": "Gain [E]. NL If the last card played this combat was a Power, gain [E] again. Otherwise, draw !M! cards. NL Exhaust.",
-		"UPGRADE_DESCRIPTION": "Gain [E]. NL If the last card played this combat was a Power, gain [E] [E] . Otherwise, draw !M! cards. NL Exhaust."
+		"UPGRADE_DESCRIPTION": "Gain [E]. NL If the last card played this combat was a Power, gain [E] [E] again. Otherwise, draw !M! cards. NL Exhaust."
 	},
 	"LonelyNightmare_Blood": {
 		"NAME":"Lonely Nightmare",
@@ -291,8 +291,8 @@
 	},
 	"BloodyCatastrophe_Blood": {
 		"NAME":"Bloody Catastrophe",
-		"DESCRIPTION": "Deal damage and gain Block equal to the absolute difference between your current maximum HP and 50.",
-		"UPGRADE_DESCRIPTION": "Retain. NL Deal damage and gain Block equal to the absolute difference between your current maximum HP and 50."
+		"DESCRIPTION": "Deal fixed damage and gain fixed Block equal to the absolute difference between 50 and your current maximum HP.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Deal fixed damage and gain fixed Block equal to the absolute difference between 50 and your current maximum HP."
 	},
 	"Laevatein_Blood": {
 		"NAME":"Laevateinn",
