@@ -12,7 +12,7 @@
 
 		"NAME": "Tension",
 
-		"DESCRIPTIONS": ["Whenever you play an Attack that triggers #yCleave, you additionally deal","% of its base damage as #yCleave damage. #yTension increases the amount of #yCleave damage dealt (default 10% more per stack)."]
+		"DESCRIPTIONS": ["Whenever you play an Attack that triggers #yCleave, you additionally deal ","% of its base damage as #yCleave damage. #yTension increases the amount of #yCleave damage dealt (default 10% more per stack)."]
 
 	},
 
@@ -33,9 +33,9 @@
 
 	"DebuffDetonate_Power": {
 
-		"NAME": "Detonate",
+		"NAME": "Pain of Insanity",
 
-		"DESCRIPTIONS": ["At the start of this unit's next turn, it takes #b"," damage."]
+		"DESCRIPTIONS": ["At the start of this creature's next turn, it takes #b"," damage."]
 	},
 
 
@@ -52,7 +52,7 @@
 
 		"NAME": "Mired in Delirium",
 
-		"DESCRIPTIONS": ["Whenever you play 3 Skills in a single turn, inflict 2 Insanity to a random enemy. (Skills played this turn: #b"," )"]
+		"DESCRIPTIONS": ["Whenever you play 3 Skills in a single turn, inflict 2 #yInsanity on a random enemy. (Skills played this turn: #b"," )"]
 	},
 
 	"CastArmorWithBlood_Power": {
@@ -66,14 +66,14 @@
 
 		"NAME": "The Seven Taboos",
 
-		"DESCRIPTIONS": ["At the start of your turn, apply #b"," #yTaboo to all enemies. If there's only one enemy, apply 2 additional stacks of #yTaboo."]
+		"DESCRIPTIONS": ["At the start of your turn, apply #b"," #yTaboo to all enemies. If there's only one enemy, apply #b2 additional stacks of #yTaboo."]
 	},
 
 	"CastBloodWithArmor_Power": {
 
 		"NAME": "Armored Blood",
 
-		"DESCRIPTIONS": ["Whenever you are attacked this turn, gain #b"," #yBloodthirst"]
+		"DESCRIPTIONS": ["Whenever you are attacked this turn, gain #b"," #yBloodthirst."]
 	},
 
 	"ClockEngravedWithThePast_Blood_Power": {
@@ -94,7 +94,7 @@
 
 		"NAME": "Heart of Madness",
 
-		"DESCRIPTIONS": ["At the start of ypur turn, lose #b1 HP and gain #b"," #yTension"]
+		"DESCRIPTIONS": ["At the start of your turn, lose #b1 HP and gain #b"," #yTension."]
 	},
 	"WhyIsItJustMe_Blood_Power": {
 

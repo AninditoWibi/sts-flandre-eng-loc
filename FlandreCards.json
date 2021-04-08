@@ -35,8 +35,8 @@
 	},
 	"Gradually_Crazy_Blood": {
 		"NAME":"Progressive Madness",
-		"DESCRIPTION": "Lose 2 HP. NL Gain 1 Bloodthirst. Draw 1 card. NL Put this card to the bottom of your draw pile.",
-		"UPGRADE_DESCRIPTION": "Innate. NL Lose 2 HP. NL Gain 1 Bloodthirst. Draw 1 card. NL Put this card to the bottom of your draw pile."
+		"DESCRIPTION": "Lose 2 HP. NL Gain 1 Bloodthirst. Draw 1 card. NL  Shuffle this card into your draw pile.",
+		"UPGRADE_DESCRIPTION": "Innate. NL Lose 2 HP. NL Gain 1 Bloodthirst. Draw 1 card. NL  Shuffle this card into your draw pile."
 	},
 	"Tyranny_Blood": {
 		"NAME":"Tyranny",
@@ -158,7 +158,7 @@
 	},
 	"Etching_Blood": {
 		"NAME":"Etched in Blood",
-		"DESCRIPTION": "Lose 4 HP. NL Choose one: Enemy loses 2 Strength, or gain !M! Gold if the enemy dies. NL Exhaust."
+		"DESCRIPTION": "Lose 4 HP. NL Enemy loses 2 Strength. If the targeted enemy dies, gain !M! Gold. NL Exhaust."
 	},
 	"ForbiddenShootingStars_Blood":{
 		"NAME":"Forbidden Shooting Stars",
@@ -187,8 +187,8 @@
 	},
 	"TheMadnessOfHeart_Blood": {
 		"NAME":"Heart of Madness",
-		"DESCRIPTION": "At the start of ypur turn, lose 1 HP and gain 2 Tension.",
-		"UPGRADE_DESCRIPTION": "Innate. NL At the start of ypur turn, lose 1 HP and gain 2 Tension."
+		"DESCRIPTION": "At the start of your turn, lose 1 HP and gain 2 Tension.",
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, lose 1 HP and gain 2 Tension."
 	},
 	"BackFlow_Blood": {
 		"NAME":"Flow Reversal",
@@ -236,7 +236,7 @@
 	},
 	"Subduction_Blood": {
 		"NAME":"The Unfinished Puzzle",
-		"DESCRIPTION": "Cleave. NL Lose 6 hp. Deal !D! damage to ALL enemies. Gain !M! Bloodthirst. NL If this card triggers Cleave, double the Bloodthirst stacks gained from this card."
+		"DESCRIPTION": "Cleave. NL Lose 6 HP. Deal !D! damage to ALL enemies. Gain !M! Bloodthirst. NL If this card triggers Cleave, double the Bloodthirst stacks gained from this card."
 	},
 	"Induce_Blood": {
 		"NAME":"Mindfray",
@@ -273,12 +273,12 @@
 	},
 	"CrazyWithMe_Blood": {
 		"NAME":"Shared Psychosis",
-		"DESCRIPTION": "Every time an enemy takes damage, inflict !M! Insanity to ALL enemies. NL Exhaust.",
-		"UPGRADE_DESCRIPTION": "Every time an enemy takes damage, inflict !M! Insanity to ALL enemies."
+		"DESCRIPTION": "Every time an enemy takes damage, apply !M! Insanity to ALL enemies. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Every time an enemy takes damage, apply !M! Insanity to ALL enemies."
 	},
 	"BloodTide": {
 		"NAME":"Rising Blood Tides",
-		"DESCRIPTION": "Whenever you heal HP, draw !M! cards."
+		"DESCRIPTION": "Whenever you heal HP this combat, draw !M! cards."
 	},
 	"RippleIn495_Blood": {
 		"NAME":"Ripple in 495 Years",
@@ -286,13 +286,13 @@
 	},
 	"Catadioptric_Blood": {
 		"NAME":"Catadioptric",
-		"DESCRIPTION": "Shuffle ALL your cards into your draw pile. NL Draw cards equal to the the number of cards in your hand before playing this card (minimum 3).",
-		"UPGRADE_DESCRIPTION": "Retain. NL Shuffle ALL your cards into your draw pile. NL Draw cards equal to the the number of cards in your hand before playing this card (minimum 3)."
+		"DESCRIPTION": "Shuffle ALL your cards into your draw pile. NL Draw cards equal to the number of cards in your hand before playing this card (minimum 3).",
+		"UPGRADE_DESCRIPTION": "Retain. NL Shuffle ALL your cards into your draw pile. NL Draw cards equal to the number of cards in your hand before playing this card (minimum 3)."
 	},
 	"BloodyCatastrophe_Blood": {
 		"NAME":"Bloody Catastrophe",
-		"DESCRIPTION": "Deal X damage and gain X Block, where X is the difference between your current maximum HP and your initial maximum HP at the start of this run.",
-		"UPGRADE_DESCRIPTION": "Retain. NL Deal X damage and gain X Block, where X is the difference between your current maximum HP and your initial maximum HP at the start of this run."
+		"DESCRIPTION": "Deal damage and gain Block equal to the absolute difference between your current maximum HP and 50.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Deal damage and gain Block equal to the absolute difference between your current maximum HP and 50."
 	},
 	"Laevatein_Blood": {
 		"NAME":"Laevateinn",

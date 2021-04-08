@@ -9,7 +9,7 @@
 	"TrueAncestorsBlood":{
 		"NAME":"Pure Vampire Blood",
 		"FLAVOR":"An untainted blood sample from an ancient vampire, meant for another of his kin.",
-		"DESCRIPTIONS":["If you would die in combat with more than 20 maximum HP, heal to full HP and gain #b2 #yStrength and #2 #yDexterity, but halve your maximum HP. At the start of each combat, gain #yStrength and #yDexterity equal to the number of times this relic has revived you."]
+		"DESCRIPTIONS":["If you would die in combat with more than 20 max. HP, heal to full HP and gain #b2 #yStrength and #b2 #yDexterity, but halve your max. HP. At the start of each combat, gain #yStrength and #yDexterity equal to the number of times this relic has revived you."]
 	},
 
 	"MySistersDoll": {
@@ -20,7 +20,7 @@
 
 	"StoneOfForesight": {
 		"NAME":"Oracle's Gem",
-		"FLAVOR":"'You think it's fine for my sister to wander that place alone?' NL 'Yes, she will be fine. Besides, all this time you've pnly been spoiling her.'",
+		"FLAVOR":"'You think it's fine for my sister to wander that place alone?' NL 'Yes, she will be fine. Besides, all this time you've only been spoiling her.'",
 		"DESCRIPTIONS":["At the end of your turn, #yScry #b2, then put a card from your discard pile at the top of your draw pile."]
 	},
 
