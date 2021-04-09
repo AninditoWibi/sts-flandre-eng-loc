@@ -4,7 +4,7 @@
 
 		"NAME": "Taboo",
 
-		"DESCRIPTIONS": ["You have a #b","% additional chance of triggering #yCleave. Whenever an enemy with #yTaboo takes #yCleave damage, their #yTaboo stacks are reduced by #b2."]
+		"DESCRIPTIONS": ["You have a #b","% additional chance of triggering #yCleave. Whenever this creature takes #yCleave damage, #b2 #yTaboo stacks are removed."]
 
 	},
 
@@ -12,7 +12,7 @@
 
 		"NAME": "Tension",
 
-		"DESCRIPTIONS": ["Whenever you play an Attack that triggers #yCleave, you additionally deal ","% of its base damage as #yCleave damage. #yTension increases the amount of #yCleave damage dealt (default #b10% more per stack)."]
+		"DESCRIPTIONS": ["Whenever you play an Attack that triggers #yCleave, you additionally deal ","% of its base damage as #yCleave damage. #yTension increases the amount of #yCleave damage dealt by #b10% more per stack."]
 
 	},
 
@@ -38,9 +38,6 @@
 		"DESCRIPTIONS": ["At the start of this creature's next turn, it takes #b"," damage."]
 	},
 
-
-
-
 	"ForbiddenFruits_Blood_Power": {
 
 		"NAME": "No Cleave",
@@ -52,7 +49,7 @@
 
 		"NAME": "Mired in Delirium",
 
-		"DESCRIPTIONS": ["Whenever you play 3 Skills in a single turn, inflict 2 #yInsanity on a random enemy. (Skills played this turn: #b"," )"]
+		"DESCRIPTIONS": ["Whenever you play #b3 Skills in a single turn, inflict #b2 #yInsanity on a random enemy. (Skills played this turn: #b"," )"]
 	},
 
 	"CastArmorWithBlood_Power": {
@@ -103,13 +100,11 @@
 		"DESCRIPTIONS": ["Every #b2 times you lose HP from a card, gain #b1 #yBloodthirst."]
 	},
 
-
-
 	"TrueAncestors_Blood_Power": {
 
 		"NAME": "True Ancestors",
 
-		"DESCRIPTIONS": ["At the start of every 2 turns, gain #b1 #yIntangible. You may no longer heal HP for the rest of this combat."]
+		"DESCRIPTIONS": ["At the start of every #b2 turns, gain #b1 #yIntangible. You may no longer heal HP for the rest of this combat."]
 	},
 
 	"FourOfAKindPower": {
@@ -137,7 +132,7 @@
 
 		"NAME":"Endless Darkness",
 
-		"DESCRIPTIONS": ["At the start of your turn, a non-Attack card in your hand is selected. If you play it, draw 2 cards next turn."]
+		"DESCRIPTIONS": ["At the start of your turn, a non-Attack card in your hand is selected. If you play it, draw #b2 cards next turn."]
 	},
 
 	"BloodTide_Power": {

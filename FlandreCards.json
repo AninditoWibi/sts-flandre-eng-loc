@@ -9,7 +9,7 @@
 	},
 	"Pivot_destroy": {
 		"NAME":"Eyes of Focus",
-		"DESCRIPTION": "Cleave. NL Deal !D! damage. NL "
+		"DESCRIPTION": "Cleave. NL Deal !D! damage. NL Apply !M! Taboo."
 	},
 	"Pivot_control": {
 		"NAME":"Eyes of Control",
